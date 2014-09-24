@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Encanto Engineering : We're Hiring"
+title: "Encanto Engineering : We're hiring for JavaScript positions"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [jobs, positions]
 author: ron_smith
 image:
   feature:
@@ -17,6 +17,8 @@ work at Encanto Squared, creating products that give our customers unique and hi
 We're committed to using the best technologies and approaches available to solve our business needs.
 That means we stay pretty current with the technologies we use, are always on the lookout for ways to improve what
 we're doing, and are constantly innovating in our strategic areas.
+
+## JavaScript Positions
 
 We're looking for talented developers to join our growing team, with a focus on the following
 technologies:
