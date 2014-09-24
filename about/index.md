@@ -26,7 +26,7 @@ image:
 
 
 
-This is the Engineering public site for [Encanto Squared](http://encantosquared.com/).  We have engineering offices in the
+This is the public site for Engineering at [Encanto Squared](http://encantosquared.com/).  We have engineering offices in the
 Chicago and San Fransisco Bay areas.  We'll cover technologies
 and approaches we are using or find interesting here, whether related to software development, cloud infrastructure,
 devops, or the industry in general.
