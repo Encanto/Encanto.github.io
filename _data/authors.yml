@@ -1,14 +1,14 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+ron_smith:
+  name: Ron Smith
+#  web: http://thewhip.com
+#  email: rsmith@encanto2.com
+#  bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+#  twitter: extravagantman
+#  google:
+#    plus: BillyRick
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
