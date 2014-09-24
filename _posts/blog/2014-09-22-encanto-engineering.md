@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Encanto Engineering : We're hiring for JavaScript positions"
+title: "Encanto Engineering : We're hiring JavaScript developers"
 modified:
 categories: blog
 excerpt:
-tags: [jobs, positions]
+tags: [jobs, positions, nodejs]
 author: ron_smith
 image:
   feature:
@@ -18,7 +18,7 @@ We're committed to using the best technologies and approaches available to solve
 That means we stay pretty current with the technologies we use, are always on the lookout for ways to improve what
 we're doing, and are constantly innovating in our strategic areas.
 
-## JavaScript Positions
+## JavaScript/Node.js Positions
 
 We're looking for talented developers to join our growing team, with a focus on the following
 technologies:
