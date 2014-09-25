@@ -31,3 +31,5 @@ technologies:
 * Experience with a JavaScript-based single-page UI framework/libraries, such as AngularJS, Polymer, or similar
 * Experience with current web technologies : e.g. HTML5, CSS, WebSockets
 
+If you’re passionate about solving interesting problems, creating products that are key to our customers,
+and enjoy working with new technologies, drop us a note at <Engineering@encanto2.com>

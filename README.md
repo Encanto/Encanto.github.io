@@ -15,3 +15,6 @@ To build & serve the site locally:
     bundle exec jekyll serve
 
 
+## Publishing
+
+Simply push to github, and it'll regenerate & publish site to http://encanto.github.io/
